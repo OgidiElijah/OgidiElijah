@@ -69,7 +69,7 @@ A dashboard interface where authenticated users can update and access key inform
 
 <div align="center">
 
-<a href="https://github.com/OgidiElijah/MTU_LAN_CHESS_APP"><img width="350" style="border-radius:10px"; src="https://github.com/OgidiElijah/MTU_LAN_CHESS_APP/blob/main/mtu_home_page.jpg?raw=true" /></a>
+<a href="https://github.com/OgidiElijah/MTU_LAN_CHESS_APP"><img width="350" style="border-radius:10px"; src="https://image2url.com/images/1765467175903-c2ced15e-ad64-424e-bc15-c254e7ef53f7.jpg"/></a>
 
 <a href="https://github.com/OgidiElijah/Dynamic_Profile_Endpoint"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=OgidiElijah&repo=dynamic-profile-endpoint&theme=default" /></a>
 
