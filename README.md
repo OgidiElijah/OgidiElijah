@@ -86,9 +86,10 @@ A dashboard interface where authenticated users can update and access key inform
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=OgidiElijah&show_icons=true&theme=default" />
+<img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=OgidiElijah&show_icons=true" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OgidiElijah&layout=compact&theme=default" />
+<img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=OgidiElijah&layout=compact" />
+
 
 </div>
 
