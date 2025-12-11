@@ -1,16 +1,20 @@
-# Hi there, I'm Ogidi Elijah 👋  
-
-Backend developer in training, currently studying Computer Science and building real-world Django applications.  
-I enjoy solving problems with Python, designing simple web tools, and learning better ways to build software.
+<!-- Animated Banner -->
+<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=1E90FF&center=true&vCenter=true&width=900&lines=Hi+there,+I'm+Ogidi+Elijah!+👋;Backend+Developer+in+Progress;Django+Enthusiast+%7C+Python+Developer;Always+Learning+Something+New" />
 
 ---
 
-## 🛠️ Skills and Tools
+# 👨‍💻 About Me
+I’m a Computer Science student and a beginner backend developer with a focus on Django.  
+I enjoy building small but practical web applications and learning new tools that improve my workflow.
+
+---
+
+# 🛠️ Skills and Tools
 
 ### **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### **Frameworks**
@@ -33,82 +37,102 @@ I enjoy solving problems with Python, designing simple web tools, and learning b
 
 ---
 
-## 🔭 Projects
+# 🚀 Featured Projects
 
-### **1. MTU LAN Chess App (Django)**
+## 🔹 MTU LAN Chess App (Django)
 A web-based chess platform built for Mountain Top University.  
-Features include user management, local-network gameplay, and session handling.  
-*Deployment pending*  
+Supports LAN-based multiplayer sessions, user login and game logic.  
+**Not yet deployed**  
 **Tech:** Django, HTML, CSS, JavaScript  
 
 ---
 
-### **2. Dynamic Profile Endpoint (HNG Stage Zero)**
-A simple endpoint returning structured personal data, built for the HNG Internship.  
+## 🔹 Dynamic Profile Endpoint (HNG Stage Zero)
+A dynamic API endpoint returning structured personal data.  
 **Hosted on PythonAnywhere:** *(add your link here)*  
-**Tech:** Django, REST concepts, PythonAnywhere deployment  
+**Tech:** Django, PythonAnywhere, REST concepts  
 
 ---
 
-### **3. Video Call Web App**
-A real-time communication platform built during practice sessions.  
-Supports room creation and peer-to-peer video calls.  
-**Tech:** JavaScript, WebRTC, Django backend  
+## 🔹 Video Call App (WebRTC + Django)
+A real-time video chat app with room creation and peer-to-peer calls.  
+**Tech:** WebRTC, JavaScript, Django  
 
 ---
 
-### **4. User Dashboard System**
-A simple dashboard interface where authenticated users can view and update basic information.  
-Focus on layouts, authentication and data handling.  
-**Tech:** Django, HTML/CSS, MySQL  
+## 🔹 User Dashboard System
+A dashboard interface where authenticated users can update and access key information.  
+**Tech:** Django, MySQL, HTML/CSS  
 
 ---
 
-If you want, I can format each project with screenshots and clickable cards.
-
----
-
-## 📚 What I'm Learning
-- Django REST Framework  
-- Better MySQL queries  
-- Modern deployment tools (Render, Railway)  
-- Introductory React  
-- Clean Git branching and workflow  
-
----
-
-## 📊 GitHub Stats
+# 🎯 Project Cards (Click to View Repositories)
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=OgidiElijah&show_icons=true&theme=default" />
+<a href="https://github.com/OgidiElijah/MTU_LAN_CHESS_APP"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=OgidiElijah&repo=MTU_LAN_CHESS_APP&theme=default" /></a>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OgidiElijah&layout=compact&theme=default" />
+<a href="https://github.com/OgidiElijah/Dynamic_Profile_Endpoint"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=OgidiElijah&repo=dynamic-profile-endpoint&theme=default" /></a>
+
+<a href="https://github.com/OgidiElijah"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=OgidiElijah&repo=video-call-app&theme=default" /></a>
+
+<a href="https://github.com/OgidiElijah"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=OgidiElijah&repo=user-dashboard&theme=default" /></a>
+
+</div>
+
+*(Make sure you rename your repos with these names or share the actual repo names so I can update the links for you.)*
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=OgidiElijah&show_icons=true&theme=default" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OgidiElijah&layout=compact&theme=default" />
 
 </div>
 
 ---
 
-## 🔥 GitHub Activity Streak
+# 🔥 GitHub Streak
 
 <div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=OgidiElijah&theme=default" />
-
 </div>
 
 ---
 
-## 🤝 Open to Collaborate On
-- Django backend projects  
-- Beginner-friendly full-stack work  
-- Tools that help students or automate simple tasks  
+# 🐍 Contribution Snake Animation
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</div>
 
 ---
 
-## 📫 Reach Me
+# 🎓 What I'm Learning Now
+- Django REST Framework  
+- Better database queries with MySQL  
+- React basics  
+- Deployment using Render and Railway  
+- Clean Git workflow and branching  
+
+---
+
+# 🤝 Open to Collaborate On
+- Django backend tasks  
+- Beginner-friendly full-stack apps  
+- Student-focused tools and automation projects  
+
+---
+
+# 📫 Contact Me
 - **Email:** ogidielijah@gmail.com  
 - **Phone:** +234 7012345678  
+- **GitHub:** https://github.com/OgidiElijah  
 
-Thanks for visiting my profile!
+Thanks for checking out my profile!  
+⭐ Feel free to star any project you find interesting.
 
