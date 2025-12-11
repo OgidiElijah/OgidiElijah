@@ -49,7 +49,7 @@ Supports LAN-based multiplayer sessions, user login and game logic.
 
 ## 🔹 Dynamic Profile Endpoint (HNG Stage Zero)
 A dynamic API endpoint returning structured personal data.  
-**Hosted on PythonAnywhere:** *(add your link here)*  
+**Hosted on PythonAnywhere:** *http://www.solutionengineer.pythonanywhere.com*  
 **Tech:** Django, PythonAnywhere, REST concepts  
 
 ---
@@ -74,9 +74,9 @@ A dashboard interface where authenticated users can update and access key inform
 
 <a href="https://github.com/OgidiElijah/Dynamic_Profile_Endpoint"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=OgidiElijah&repo=dynamic-profile-endpoint&theme=default" /></a>
 
-<a href="https://github.com/OgidiElijah"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=OgidiElijah&repo=video-call-app&theme=default" /></a>
+<a href="https://github.com/OgidiElijah/Video-call-app"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=OgidiElijah&repo=video-call-app&theme=default" /></a>
 
-<a href="https://github.com/OgidiElijah"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=OgidiElijah&repo=user-dashboard&theme=default" /></a>
+<a href="https://github.com/OgidiElijah/user_dashboard"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=OgidiElijah&repo=user-dashboard&theme=default" /></a>
 
 </div>
 
