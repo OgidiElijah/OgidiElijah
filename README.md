@@ -69,13 +69,13 @@ A dashboard interface where authenticated users can update and access key inform
 
 <div align="center">
 
-<a href="https://github.com/OgidiElijah/Dynamic_Profile_Endpoint" target="_blank"><img width="350"  height="350" style="border-radius:50%;" src="https://github.com/OgidiElijah/MTU_LAN_CHESS_APP/blob/main/mtu_home_page.jpg?raw=true" alt="MTU Chess Club Screenshot" ></a>
+<a href="https://github.com/OgidiElijah/MTU_LAN_CHESS_APP" target="_blank"><img width="350"  height="350" style="border-radius:50%;" src="https://github.com/OgidiElijah/MTU_LAN_CHESS_APP/blob/main/mtu_home_page.jpg?raw=true" alt="MTU Chess Club Screenshot" ></a>
 
-<a href="https://github.com/OgidiElijah/Dynamic_Profile_Endpoint"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=OgidiElijah&repo=dynamic-profile-endpoint&theme=default" /></a>
+<!-- <a href="https://github.com/OgidiElijah/Dynamic_Profile_Endpoint"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=OgidiElijah&repo=dynamic-profile-endpoint&theme=default" /></a>
 
 <a href="https://github.com/OgidiElijah/Video-call-app"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=OgidiElijah&repo=video-call-app&theme=default" /></a>
 
-<a href="https://github.com/OgidiElijah/user_dashboard"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=OgidiElijah&repo=user-dashboard&theme=default" /></a>
+<a href="https://github.com/OgidiElijah/user_dashboard"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=OgidiElijah&repo=user-dashboard&theme=default" /></a> -->
 
 </div>
 
