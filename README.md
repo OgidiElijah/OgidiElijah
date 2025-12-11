@@ -80,7 +80,6 @@ A dashboard interface where authenticated users can update and access key inform
 
 </div>
 
-*(Make sure you rename your repos with these names or share the actual repo names so I can update the links for you.)*
 
 ---
 
@@ -129,8 +128,8 @@ A dashboard interface where authenticated users can update and access key inform
 ---
 
 # 📫 Contact Me
-- **Email:** ogidielijah@gmail.com  
-- **Phone:** +234 7012345678  
+- **Email:** elijahogidi@mtu.edu.ng  
+- **Phone:** +234 7081456036  
 - **GitHub:** https://github.com/OgidiElijah  
 
 Thanks for checking out my profile!  
