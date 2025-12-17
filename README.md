@@ -49,7 +49,7 @@ Supports LAN-based multiplayer sessions, user login and game logic.
 
 ## 🔹 Dynamic Profile Endpoint (HNG Stage Zero)
 A dynamic API endpoint returning structured personal data.  
-**Hosted on PythonAnywhere:** *http://www.solutionengineer.pythonanywhere.com*  
+**Hosted on PythonAnywhere:** *https://solutionengineer.pythonanywhere.com\me*  
 **Tech:** Django, PythonAnywhere, REST concepts  
 
 ---
