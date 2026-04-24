@@ -4,7 +4,7 @@
 ---
 
 # 👨‍💻 About Me
-I’m a Computer Science student and a beginner backend developer with a focus on Django.  
+I’m a Computer Science student and a fullstack developer with a focus on Django.  
 I enjoy building small but practical web applications and learning new tools that improve my workflow.
 
 ---
@@ -41,15 +41,13 @@ I enjoy building small but practical web applications and learning new tools tha
 
 ## 🔹 MTU LAN Chess App (Django)
 A web-based chess platform built for Mountain Top University.  
-Supports LAN-based multiplayer sessions, user login and game logic.  
-**Not yet deployed**  
+Supports LAN-based multiplayer sessions, user login and game logic.    
 **Tech:** Django, HTML, CSS, JavaScript  
 
 ---
 
 ## 🔹 Dynamic Profile Endpoint (HNG Stage Zero)
-A dynamic API endpoint returning structured personal data.  
-**Hosted on PythonAnywhere:** *https://solutionengineer.pythonanywhere.com\me*  
+A dynamic API endpoint returning structured personal data.    
 **Tech:** Django, PythonAnywhere, REST concepts  
 
 ---
