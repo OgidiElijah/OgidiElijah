@@ -1,5 +1,5 @@
 <!-- Animated Banner -->
-<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=1E90FF&center=true&vCenter=true&width=900&lines=Hi+there,+I'm+Ogidi+Elijah!+👋;Backend+Developer+in+Progress;Django+Enthusiast+%7C+Python+Developer;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=1E90FF&center=true&vCenter=true&width=900&lines=Hi+there,+I'm+Ogidi+Elijah!+👋;Full+Stack+Developer+in+Progress;Django+Enthusiast+%7C+Python+Developer;Always+Learning+Something+New" />
 
 ---
 
