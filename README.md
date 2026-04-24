@@ -43,6 +43,7 @@ I enjoy building small but practical web applications and learning new tools tha
 A web-based chess platform built for Mountain Top University.  
 Supports LAN-based multiplayer sessions, user login and game logic.    
 **Tech:** Django, HTML, CSS, JavaScript  
+**Live Demo:** https://mtu-lan-chess-app.onrender.com/
 
 ---
 
